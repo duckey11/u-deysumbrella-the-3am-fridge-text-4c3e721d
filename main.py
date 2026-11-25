@@ -12,7 +12,8 @@ import os
 
 ENTRY = (
     "It's 3am. You opened me, stared into my light, "
-    "and left with a single pickle. I'm a fridge, not a therapist."
+    "and left with a single pickle. I'm a fridge, not a therapist. "
+    "The pickle saw everything."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
